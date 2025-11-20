@@ -24,8 +24,8 @@ Below is the first exported Altair chart, embedded directly into the page using 
 
 <vegachart
   schema-url="{{ '/assets/json/bfro_year_season.json' | relative_url }}"
-  style="width: 100%"
-></vegachart>
+  style="width: 100%">
+</vegachart>
 
 ### **Explanation**
 
@@ -45,8 +45,8 @@ This second Altair chart uses a **dropdown selector** to filter the distribution
 
 <vegachart
   schema-url="{{ '/assets/json/bfro_season_state.json' | relative_url }}"
-  style="width: 100%"
-></vegachart>
+  style="width: 100%">
+</vegachart>
 
 ### **Explanation**
 
